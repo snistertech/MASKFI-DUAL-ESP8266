@@ -23,12 +23,6 @@
 - **Real-time password capture** - Stores credentials with timestamps
 - **Password validation** - Optional real-time credential verification
 
-### 🎨 **Advanced Customization**
-- **External CSS support** - Upload custom stylesheets via web interface
-- **Logo management** - Upload and switch between ISP logos
-- **JSON configuration** - Easy text and settings modification
-- **File upload system** - Supports .png, .json, and .css files
-
 ### 🔧 **Professional Dashboard**
 - Real-time network scanning and analysis
 - Password management and export
