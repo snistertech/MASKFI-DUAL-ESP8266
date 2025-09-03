@@ -47,12 +47,6 @@
 | **Interface** | Web-based dashboard |
 | **Power** | USB or battery powered |
 
-### 🎨 **Enhanced UI/UX**
-- **Responsive CSS** - External `data/style.css` with mobile optimization
-- **Logo consistency** - Logos now display on all portal pages
-- **File upload support** - Dashboard supports CSS file uploads
-- **Memory optimization** - Reduced program size by externalizing assets
-
 ### 🔧 **Improved Architecture**
 - **Modular design** - Separated content from code
 - **Better maintainability** - Easy customization without recompilation
@@ -97,12 +91,6 @@
 - ESP8266 development board (NodeMCU recommended)
 - USB cable for programming
 - Optional: External antenna for better range
-
-### 💻 **Software Setup**
-1. **Arduino IDE** with ESP8266 board package
-2. **Required libraries**: ESP8266WiFi, DNSServer, LittleFS, ArduinoJson
-3. **Upload data files** to LittleFS (portal_text.json, style.css, logos)
-4. **Compile and upload** the firmware
 
 ### 🌐 **Usage**
 1. **Power on** the device
